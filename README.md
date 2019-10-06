@@ -15,4 +15,4 @@ This repository tracks the current status of IPv4 run-out in the RIPE region
 - [delegated-ripencc-extended-latest](https://ftp.ripe.net/pub/stats/ripencc/delegated-ripencc-extended-latest)
 - [alloclist.txt](https://ftp.ripe.net/pub/stats/ripencc/membership/alloclist.txt)
 
-Generated at: 2019-10-06 00:30 CEST
+Generated at: 2019-10-07 00:30 CEST
