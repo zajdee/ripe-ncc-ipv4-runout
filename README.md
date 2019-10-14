@@ -1,4 +1,4 @@
-# ripe-ncc-ipv4-runout
+# RIPE NCC IPv4 run-out
 This repository tracks the current status of IPv4 run-out in the RIPE region.
 
 # Current status
@@ -20,4 +20,4 @@ The address dust status was moved from `available` to `reserved` on 2019-10-11, 
 - [delegated-ripencc-extended-latest](https://ftp.ripe.net/pub/stats/ripencc/delegated-ripencc-extended-latest)
 - [alloclist.txt](https://ftp.ripe.net/pub/stats/ripencc/membership/alloclist.txt)
 
-Generated at: 2019-10-14 19:55 CEST
+Generated at: 2019-10-14 19:56 CEST
