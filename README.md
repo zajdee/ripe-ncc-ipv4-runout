@@ -2,7 +2,7 @@
 This repository tracks the current status of IPv4 run-out in the RIPE region.
 
 # Current status
-- available prefix sizes
+- available prefix sizes (not always on the network bitmask boundary)
   - available blocks of consecutive 1024 addressess: 49
   - available blocks of consecutive 512 addressess: 698
   - available blocks of consecutive 256 addressess: 1556
@@ -17,4 +17,4 @@ This repository tracks the current status of IPv4 run-out in the RIPE region.
 - [delegated-ripencc-extended-latest](https://ftp.ripe.net/pub/stats/ripencc/delegated-ripencc-extended-latest)
 - [alloclist.txt](https://ftp.ripe.net/pub/stats/ripencc/membership/alloclist.txt)
 
-Generated at: 2019-10-14 19:33 CEST
+Generated at: 2019-10-14 19:52 CEST
