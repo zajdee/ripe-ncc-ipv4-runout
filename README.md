@@ -3,15 +3,15 @@ This repository tracks the current status of IPv4 run-out in the RIPE region.
 
 # Current status
 - available prefix sizes (not always on the network bitmask boundary)
-  - available blocks of consecutive 1024 addressess: 35
-  - available blocks of consecutive 512 addressess: 462
+  - available blocks of consecutive 1024 addressess: 34
+  - available blocks of consecutive 512 addressess: 432
   - available blocks of consecutive 256 addressess: 1572
-- available (usable) addresses: 674816
-- available (usable) /22-equivalents: 659
+- available (usable) addresses: 658432
+- available (usable) /22-equivalents: 643
 - remaining available (usable) addresses not fitting into an /22-equivalent: 0
 - remaining address dust (unusable addresses, smaller than a /24): 0
-- count of LIRs: 25175
-- count of LIRs with at least one allocation: 24792
+- count of LIRs: 25182
+- count of LIRs with at least one allocation: 24800
 - count of LIRs with at least one allocation, without last /22 allocation: 2940
 
 # Notes
@@ -22,4 +22,4 @@ The address dust status was moved from `available` to `reserved` on 2019-10-11, 
 - [alloclist.txt](https://ftp.ripe.net/pub/stats/ripencc/membership/alloclist.txt)
 - [number-of-lirs](https://labs.ripe.net/statistics/number-of-lirs)
 
-Generated at: 2019-10-23 00:30 CEST
+Generated at: 2019-10-24 00:30 CEST
