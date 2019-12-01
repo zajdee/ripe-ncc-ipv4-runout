@@ -19,4 +19,4 @@ The address dust status was moved from `available` to `reserved` on 2019-10-11, 
 - [alloclist.txt](https://ftp.ripe.net/pub/stats/ripencc/membership/alloclist.txt)
 - [number-of-lirs](https://labs.ripe.net/statistics/number-of-lirs)
 
-Generated at: 2019-12-01 00:30 CET
+Generated at: 2019-12-02 00:30 CET
