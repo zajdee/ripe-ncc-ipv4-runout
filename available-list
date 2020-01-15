@@ -1,7 +1,5 @@
-ripencc|*|ipv4|*|81312|summary
-ripencc||ipv4|91.206.162.0|512||available
-ripencc||ipv4|91.220.231.0|256||available
-ripencc||ipv4|193.105.71.0|256||available
+ripencc|*|ipv4|*|81315|summary
+ripencc||ipv4|185.166.252.0|1024||available
 ripencc||ipv4|195.96.128.0|8192||available
 ripencc||ipv4|212.6.32.0|4096||available
-ripencc||ipv4|212.6.59.0|1280||available
+ripencc||ipv4|212.6.62.0|512||available
