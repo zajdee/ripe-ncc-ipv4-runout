@@ -6,13 +6,13 @@ This repository tracks the current status of IPv4 run-out in the RIPE region.
   - available blocks of consecutive 8192 addressess: 8
   - available blocks of consecutive 4096 addressess: 9
   - available blocks of consecutive 2048 addressess: 44
-  - available blocks of consecutive 1024 addressess: 144
-  - available blocks of consecutive 512 addressess: 1
-- available (usable) addresses: 340480
+  - available blocks of consecutive 1024 addressess: 143
+  - available blocks of consecutive 256 addressess: 1
+- available (usable) addresses: 339200
 - remaining address dust (unusable addresses, smaller than a /24): 0
-- count of LIRs: 25265
-- count of LIRs with at least one allocation: 24729
-- count of LIRs with at least one allocation, without last /22 allocation: 2907
+- count of LIRs: 25266
+- count of LIRs with at least one allocation: 24731
+- count of LIRs with at least one allocation, without last /22 allocation: 2905
 - waiting list stats:
   - LIRs in queue: 0
   - days that first LIR in queue has been waiting: 0
@@ -26,4 +26,4 @@ The address dust status was moved from `available` to `reserved` on 2019-10-11, 
 - [number-of-lirs](https://labs.ripe.net/statistics/number-of-lirs)
 - [waiting-list-stats](https://www.ripe.net/manage-ips-and-asns/ipv4/ipv4-waiting-list) ([json](https://www-static.ripe.net/dynamic/ipv4-waiting-list/stats.json))
 
-Generated at: 2020-08-14 00:30 CEST
+Generated at: 2020-08-15 00:30 CEST
