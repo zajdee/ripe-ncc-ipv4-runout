@@ -1,4 +1,4 @@
-ripencc|*|ipv4|*|82847|summary
+ripencc|*|ipv4|*|82866|summary
 ripencc||ipv4|5.44.248.0|2048||available
 ripencc||ipv4|5.57.208.0|2048||available
 ripencc||ipv4|5.172.176.0|2048||available
@@ -23,7 +23,6 @@ ripencc||ipv4|84.246.80.0|2048||available
 ripencc||ipv4|84.246.104.0|2048||available
 ripencc||ipv4|87.236.160.0|2048||available
 ripencc||ipv4|89.107.8.0|2048||available
-ripencc||ipv4|91.212.151.0|256||available
 ripencc||ipv4|93.93.200.0|2048||available
 ripencc||ipv4|93.157.104.0|2048||available
 ripencc||ipv4|94.124.72.0|2048||available
@@ -38,7 +37,7 @@ ripencc||ipv4|176.56.32.0|2048||available
 ripencc||ipv4|176.116.0.0|8192||available
 ripencc||ipv4|176.118.32.0|2048||available
 ripencc||ipv4|178.23.184.0|2048||available
-ripencc||ipv4|185.112.250.0|512||available
+ripencc||ipv4|185.51.20.0|1024||available
 ripencc||ipv4|185.178.48.0|1024||available
 ripencc||ipv4|185.180.144.0|1024||available
 ripencc||ipv4|185.184.228.0|1024||available
@@ -147,7 +146,6 @@ ripencc||ipv4|188.64.136.0|2048||available
 ripencc||ipv4|188.94.188.0|1024||available
 ripencc||ipv4|188.95.88.0|1024||available
 ripencc||ipv4|193.3.16.0|2048||available
-ripencc||ipv4|193.3.230.0|512||available
 ripencc||ipv4|193.5.144.0|1024||available
 ripencc||ipv4|193.17.32.0|1024||available
 ripencc||ipv4|193.17.88.0|2048||available
@@ -171,6 +169,7 @@ ripencc||ipv4|193.56.132.0|1024||available
 ripencc||ipv4|193.56.144.0|1024||available
 ripencc||ipv4|193.84.108.0|1024||available
 ripencc||ipv4|193.106.188.0|1024||available
+ripencc||ipv4|193.163.99.0|256||available
 ripencc||ipv4|193.168.216.0|1024||available
 ripencc||ipv4|193.187.96.0|1024||available
 ripencc||ipv4|193.201.8.0|2048||available
@@ -193,7 +192,6 @@ ripencc||ipv4|194.56.180.0|1024||available
 ripencc||ipv4|194.62.16.0|1024||available
 ripencc||ipv4|194.62.40.0|1024||available
 ripencc||ipv4|194.63.144.0|1024||available
-ripencc||ipv4|194.99.35.0|256||available
 ripencc||ipv4|194.99.156.0|1024||available
 ripencc||ipv4|194.150.76.0|1024||available
 ripencc||ipv4|194.187.116.0|1024||available
