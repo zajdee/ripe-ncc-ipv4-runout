@@ -43,6 +43,8 @@ ripencc||ipv4|176.116.0.0|8192||available
 ripencc||ipv4|176.118.32.0|2048||available
 ripencc||ipv4|176.126.96.0|8192||available
 ripencc||ipv4|178.23.184.0|2048||available
+ripencc||ipv4|185.40.16.0|1024||available
+ripencc||ipv4|185.85.252.0|1024||available
 ripencc||ipv4|185.202.104.0|2048||available
 ripencc||ipv4|185.212.112.0|2048||available
 ripencc||ipv4|185.232.40.0|2048||available
