@@ -1,4 +1,4 @@
-ripencc|*|ipv4|*|84408|summary
+ripencc|*|ipv4|*|84414|summary
 ripencc||ipv4|5.44.248.0|2048||available
 ripencc||ipv4|5.57.208.0|2048||available
 ripencc||ipv4|5.172.176.0|2048||available
@@ -38,17 +38,15 @@ ripencc||ipv4|109.234.72.0|2048||available
 ripencc||ipv4|146.255.184.0|2048||available
 ripencc||ipv4|176.56.32.0|2048||available
 ripencc||ipv4|176.100.40.0|2048||available
-ripencc||ipv4|176.105.235.0|256||available
 ripencc||ipv4|176.116.0.0|8192||available
 ripencc||ipv4|176.118.32.0|2048||available
 ripencc||ipv4|176.126.96.0|8192||available
 ripencc||ipv4|178.23.184.0|2048||available
-ripencc||ipv4|185.105.8.0|1024||available
 ripencc||ipv4|185.202.104.0|2048||available
 ripencc||ipv4|185.212.112.0|2048||available
 ripencc||ipv4|185.232.40.0|2048||available
 ripencc||ipv4|185.234.8.0|2048||available
-ripencc||ipv4|185.235.144.0|1024||available
+ripencc||ipv4|185.235.146.0|512||available
 ripencc||ipv4|185.235.204.0|1024||available
 ripencc||ipv4|185.235.224.0|2048||available
 ripencc||ipv4|185.236.44.0|1024||available
