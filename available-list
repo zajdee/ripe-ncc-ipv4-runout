@@ -108,6 +108,7 @@ ripencc||ipv4|193.162.44.0|1024||available
 ripencc||ipv4|193.162.128.0|2048||available
 ripencc||ipv4|193.163.84.0|3072||available
 ripencc||ipv4|193.163.124.0|1024||available
+ripencc||ipv4|193.163.144.0|256||available
 ripencc||ipv4|193.163.192.0|4096||available
 ripencc||ipv4|193.168.216.0|1024||available
 ripencc||ipv4|193.187.96.0|1024||available
