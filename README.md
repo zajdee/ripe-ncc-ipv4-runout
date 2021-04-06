@@ -28,4 +28,4 @@ The address dust status was moved from `available` to `reserved` on 2019-10-11, 
 - [number-of-lirs](https://labs.ripe.net/statistics/number-of-lirs)
 - [waiting-list-stats](https://www.ripe.net/manage-ips-and-asns/ipv4/ipv4-waiting-list) ([json](https://www-static.ripe.net/dynamic/ipv4-waiting-list/stats.json))
 
-Generated at: 2021-04-06 00:30 CEST
+Generated at: 2021-04-07 00:30 CEST
