@@ -1,10 +1,10 @@
-ripencc|*|ipv4|*|87756|summary
+ripencc|*|ipv4|*|87781|summary
 ripencc||ipv4|62.3.0.0|16384||available
 ripencc||ipv4|146.19.0.0|65536||available
-ripencc||ipv4|176.97.214.0|2560||available
-ripencc||ipv4|176.116.0.0|8192||available
+ripencc||ipv4|176.116.11.0|5376||available
 ripencc||ipv4|176.126.96.0|8192||available
 ripencc||ipv4|193.3.160.0|8192||available
+ripencc||ipv4|193.104.35.0|256||available
 ripencc||ipv4|194.26.192.0|8192||available
 ripencc||ipv4|195.96.128.0|8192||available
 ripencc||ipv4|212.18.96.0|8192||available
