@@ -9,8 +9,8 @@ This repository tracks the current status of IPv4 run-out in the RIPE region.
 - count of LIRs with at least one allocation: 22634
 - count of LIRs with at least one allocation, without last /22 allocation: 3076
 - waiting list stats:
-  - LIRs in queue: 767
-  - days that first LIR in queue has been waiting: 125
+  - LIRs in queue: 768
+  - days that first LIR in queue has been waiting: 126
 
 # Notes
 The address dust status was moved from `available` to `reserved` on 2019-10-11, as seen in [commit d71f95b](https://github.com/zajdee/ripe-ncc-ipv4-runout/commit/d71f95b1f7c9f639556e395e4ad0f41e54834954).
@@ -21,4 +21,4 @@ The address dust status was moved from `available` to `reserved` on 2019-10-11, 
 - [number-of-lirs](https://labs.ripe.net/statistics/number-of-lirs)
 - [waiting-list-stats](https://www.ripe.net/manage-ips-and-asns/ipv4/ipv4-waiting-list) ([json](https://www-static.ripe.net/dynamic/ipv4-waiting-list/stats.json))
 
-Generated at: 2022-05-01 00:30 CEST
+Generated at: 2022-05-02 00:30 CEST
