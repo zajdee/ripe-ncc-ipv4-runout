@@ -1,6 +1,11 @@
 ripencc|*|ipv4|*|91110|summary
 ripencc||ipv4|91.220.226.0|256||available
+ripencc||ipv4|91.236.230.0|512||available
+ripencc||ipv4|185.137.96.0|1024||available
+ripencc||ipv4|193.27.9.0|256||available
 ripencc||ipv4|193.105.29.0|256||available
+ripencc||ipv4|193.105.129.0|256||available
 ripencc||ipv4|193.242.181.0|256||available
+ripencc||ipv4|194.6.253.0|256||available
 ripencc||ipv4|195.66.96.0|256||available
 ripencc||ipv4|195.248.90.0|256||available
